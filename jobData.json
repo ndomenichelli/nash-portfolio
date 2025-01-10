@@ -1,0 +1,83 @@
+{
+  "jobs": [
+    {
+      "id": "j0",
+      "show": true,
+      "company": "Dealer Intelligence",
+      "location": "Remote in Kamloops, BC",
+      "job_title": "Virtual Sales Representative",
+      "date_start": "October 2024",
+      "date_end": "Current",
+      "descriptions": [
+        "Responding to leads on New and Used Car Sales, remotely all over Canada, by phone, email or texting",
+        "Selling the client on coming in store, by booking test drives, or info sessions with Sales Managers",
+        "Communicating with Car Dealerships to relay information to customers such as pricing, carfax, and vehicle availability",
+        "Using various CRM programs to log customer interaction, such as if they have been contacted, and various customer requests"
+      ]
+    },
+    {
+      "id": "j1",
+      "show": true,
+      "company": "Andres Electronics",
+      "location": "Kamloops, BC",
+      "job_title": "Sales Representative",
+      "date_start": "April 2023",
+      "date_end": "October 2024",
+      "descriptions": [
+        "Selling Telus mobility and home services, explaining costs of phone/plan",
+        "Providing customer service, explaining terms and showing basic functions of smartphones",
+        "Transfering phone data and basic tech support such as helping customers login to accounts or help reset passwords",
+        "Shipping and receiving inventory such as smartphones and accessories"
+      ]
+    },
+    {
+      "id": "j1",
+      "show": true,
+      "company": "EasyReg",
+      "location": "Remote in Kamloops, BC",
+      "job_title": "Web Developer",
+      "date_start": "September 2021",
+      "date_end": "July 2022",
+      "descriptions": [
+        "Fully remote with other developers on opposite time zones",
+        "Use vue.js front end technologies including SCSS in Visual Studio Code",
+        "Backend technologies including JavaScript, TypeScript, Laravel, Navicat",
+        "Completing tasks using Jira to manage, slack to communicate, and git for version control",
+        "Converting old database tables to new tables with PHP scripts and creating front end to pick which tables to convert",
+        "Designing fake data to insert into databases for testing",
+        "Created a mobile app with login and authentication with firebase with Flutter and Dart"
+      ]
+    },
+    {
+      "id": "j2",
+      "show": true,
+      "company": "USNR",
+      "location": "Salmon Arm, BC",
+      "job_title": "Software Developer Co-op",
+      "date_start": "January 2019",
+      "date_end": "May 2019",
+      "descriptions": [
+        "Using close attention to detail to set labels to set as ground truth for machine learning segmentation",
+        "Make suggestions for features on the software we are using, and implementing in C#",
+        "Using Microsoft teams to collaborate with other Co-op students and manage time and other projects",
+        "Created a neural net model using Tensorflow python scripts"
+      ]
+    },
+    {
+      "id": "j3",
+      "show": true,
+      "company": "Hoja Express Aberdeen Mall Mongolian Grill",
+      "location": "Kamloops, BC",
+      "job_title": "Cook",
+      "date_start": "April 2016",
+      "date_end": "July 2018",
+      "descriptions": [
+        "Cooking Mongolian grill style stir-fry on a cast iron grill",
+        "Communicating with customers to serve them in an environment with tips",
+        "Working with POS system and cashing out and dividing tips evenly with coworkers",
+        "Working under immediate deadlines in fast food style pace",
+        "Following food safe procedures and safety, understanding Kitchen culture"
+      ]
+    }
+  ]
+}
